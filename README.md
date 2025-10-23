@@ -23,9 +23,9 @@
     <img alt="C" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   </div>
   
-  <div style="text-align:;">
+  <div style="text-align: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMagnoRS" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMagnoRS&theme=radical&cache_seconds=3600" alt="Top Langs">
   </a>
 </div>
 
