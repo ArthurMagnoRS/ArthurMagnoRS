@@ -3,15 +3,16 @@
   <p>./../-&gt; Federal University of Piauí (UFPI) student; </p> 
   <p>./../-&gt; Currently in my fourth semester studying Computer Science; </p>
   <p>./../-&gt; Always looking to improve myself and my abilities with technology;</p>
+  <p>./../-&gt; Looking for internship and willing to help in any project I'm called to participate;</p>
 </div>
 
 <div style="text-align: center; margin-bottom: 25px;">
-  <p>./../-&gt; Instagram e Email para Contato:</p>
+  <p>./../-&gt; Instagram e Email for contact:</p>
   <a href="https://www.instagram.com/arthur_memo" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
   </a>
   <a href="mailto:arthur.sampaio@ufpi.edu.br">
-    <img src="https://img.shields.io/badge/Email-Contato-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Link para Email">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Link para Email">
   </a>
 </div>
 
