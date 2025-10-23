@@ -1,0 +1,10 @@
+from lista import Lista
+lista = Lista()
+lista.isEmpty()
+lista.addObj(3)
+lista.addObj(2)
+lista.addObj(4)
+lista.procuraObj(3)
+lista.procuraObj(4)
+lista.procuraObj(5)
+lista.procuraObj(2)
