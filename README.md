@@ -4,6 +4,7 @@
   <p>./../-&gt; Currently in my fourth semester studying Computer Science; </p>
   <p>./../-&gt; Always looking to improve myself and my abilities with technology;</p>
   <p>./../-&gt; Looking for internship and willing to help in any project I'm called to participate;</p>
+  <p>./../-&gt; Currently working on a Computer Network project in group to make a reliable package transfer;</p>
 </div>
 
 <div style="text-align: center; margin-bottom: 25px;">
