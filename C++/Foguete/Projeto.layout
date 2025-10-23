@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="sovamo.cpp" Top="Yes" Tabpos="1" TopLine="221">
+			<Cursor Line="255" Column="20"/>
+		</File>
+		<File Name="oi.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="6" Column="19"/>
+			<Selection Line="1" Column="1"/>
+		</File>
+		<File Name="Circulos.h" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="7" Column="17"/>
+		</File>
+	</Files>
+</Layout>
